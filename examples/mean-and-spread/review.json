@@ -1,0 +1,25 @@
+{
+  "semantic_checked": true,
+  "reviewer": "Codex direct visual and editorial review",
+  "upstream_execution": "Vendored instructions used through original writing/illustration adapters, not a literal execution of both full upstream plugins.",
+  "style_review": [
+    "五节顺序固定，正文约950个非空白字符。",
+    "没有助手自述、泛化免责声明或口号式结尾；保留四次读数不能判断长期稳定性的具体条件。"
+  ],
+  "evidence_review": [
+    "两条NIST来源已实际打开，支持平均数、极差、样本标准差定义。",
+    "案例是人为构造，没有伪装成真实实验。",
+    "均值5/5，极差2/8，样本方差2/3与40/3；标准差0.82/3.65由脚本复算。"
+  ],
+  "visual_review": [
+    "概念图v1未采纳：自行添加大量中文和额外结构。",
+    "概念图v2已直接查看：A四张蓝卡、B四张赭卡，两支箭头均朝Mean，只有A/Mean/B三个文字标签。图示是聚合的概念表达，不是定量位置。",
+    "数据图已直接查看并调整：相同0–10横轴、均值线5，重复的两个5上下错开并单独标注。"
+  ],
+  "image_backend": "Built-in imagegen for concept image; matplotlib for data SVG and PNG preview.",
+  "limitations": [
+    "仅试用一个统计选题，未验证真实案例材料抽取或其他学科的长文。",
+    "机械检查与模型审稿不能保证科学正确或任何AI检测结果。",
+    "生图模型首次未完全遵守文字限制，需要目视审查和一次重新生成。"
+  ]
+}

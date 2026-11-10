@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="460.8pt" viewBox="0 0 864 460.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T18:33:07.707901</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 460.8 
+L 864 460.8 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f7f4ee"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 110.35008 218.935296 
+L 280.17792 218.935296 
+Q 298.32192 218.935296 298.32192 211.332096 
+L 298.32192 121.918464 
+Q 298.32192 114.315264 280.17792 114.315264 
+L 110.35008 114.315264 
+Q 92.20608 114.315264 92.20608 121.918464 
+L 92.20608 211.332096 
+Q 92.20608 218.935296 110.35008 218.935296 
+z
+" clip-path="url(#pbf9607c955)" style="fill: #ffffff; stroke: #3f7898; stroke-width: 1.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 364.36608 218.935296 
+L 534.19392 218.935296 
+Q 552.33792 218.935296 552.33792 211.332096 
+L 552.33792 121.918464 
+Q 552.33792 114.315264 534.19392 114.315264 
+L 364.36608 114.315264 
+Q 346.22208 114.315264 346.22208 121.918464 
+L 346.22208 211.332096 
+Q 346.22208 218.935296 364.36608 218.935296 
+z
+" clip-path="url(#pbf9607c955)" style="fill: #ffffff; stroke: #3f7898; stroke-width: 1.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 618.38208 218.935296 
+L 788.20992 218.935296 
+Q 806.35392 218.935296 806.35392 211.332096 
+L 806.35392 121.918464 
+Q 806.35392 114.315264 788.20992 114.315264 
+L 618.38208 114.315264 
+Q 600.23808 114.315264 600.23808 121.918464 
+L 600.23808 211.332096 
+Q 600.23808 218.935296 618.38208 218.935296 
+z
+" clip-path="url(#pbf9607c955)" style="fill: #ffffff; stroke: #3f7898; stroke-width: 1.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 306.30528 383.164416 
+L 592.25472 383.164416 
+Q 610.39872 383.164416 610.39872 375.561216 
+L 610.39872 292.230144 
+Q 610.39872 284.626944 592.25472 284.626944 
+L 306.30528 284.626944 
+Q 288.16128 284.626944 288.16128 292.230144 
+L 288.16128 375.561216 
+Q 288.16128 383.164416 306.30528 383.164416 
+z
+" clip-path="url(#pbf9607c955)" style="fill: #ffffff; stroke: #bc7541; stroke-width: 1.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #3f7898" x="195.264" y="157.681986" transform="rotate(-0 195.264 157.681986)">模块基因</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #243849" x="195.264" y="191.340579" transform="rotate(-0 195.264 191.340579)">一组共表达基因</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #3f7898" x="449.28" y="157.681986" transform="rotate(-0 449.28 157.681986)">模块特征向量</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #243849" x="449.28" y="191.340579" transform="rotate(-0 449.28 191.340579)">每个样本一个汇总值</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #3f7898" x="703.296" y="157.681986" transform="rotate(-0 703.296 157.681986)">临床性状</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #243849" x="703.296" y="191.340579" transform="rotate(-0 703.296 191.340579)">体重／连续指标／分组</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 298.871733 166.62528 
+Q 318.643548 166.62528 336.402902 166.62528 
+" style="fill: none; stroke: #243849; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 330.802902 163.82528 
+L 336.402902 166.62528 
+L 330.802902 169.42528 
+" style="fill: none; stroke: #243849; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 592.430667 166.62528 
+Q 572.658852 166.62528 554.899498 166.62528 
+" style="fill: none; stroke: #243849; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 560.499498 169.42528 
+L 554.899498 166.62528 
+L 560.499498 163.82528 
+" style="fill: none; stroke: #243849; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #bc7541" x="449.28" y="325.803945" transform="rotate(-0 449.28 325.803945)">相关或回归检验</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #243849" x="449.28" y="357.272815" transform="rotate(-0 449.28 357.272815)">考虑混杂因素；报告效应量与FDR</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 449.28 226.411009 
+Q 449.28 251.782296 449.28 275.141122 
+" style="fill: none; stroke: #243849; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 452.08 269.541122 
+L 449.28 275.141122 
+L 446.48 269.541122 
+" style="fill: none; stroke: #243849; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+  </g>
+  <g id="text_9">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #243849" x="51.84" y="30.610875" transform="rotate(-0 51.84 30.610875)">从模块到临床问题</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pbf9607c955">
+   <rect x="86.4" y="87.552" width="725.76" height="304.128"/>
+  </clipPath>
+ </defs>
+</svg>

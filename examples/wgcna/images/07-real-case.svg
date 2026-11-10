@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="460.8pt" viewBox="0 0 864 460.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T18:33:07.958827</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 460.8 
+L 864 460.8 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f7f4ee"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 233.28 391.68 
+L 812.16 391.68 
+L 812.16 87.552 
+L 233.28 87.552 
+z
+" style="fill: #f7f4ee"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 233.28 101.376 
+L 690.5952 101.376 
+L 690.5952 154.888258 
+L 233.28 154.888258 
+z
+" clip-path="url(#pcc38dc8805)" style="fill: #3f7898"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 233.28 212.859871 
+L 607.23648 212.859871 
+L 607.23648 266.372129 
+L 233.28 266.372129 
+z
+" clip-path="url(#pcc38dc8805)" style="fill: #3f7898"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 233.28 324.343742 
+L 591.02784 324.343742 
+L 591.02784 377.856 
+L 233.28 377.856 
+z
+" clip-path="url(#pcc38dc8805)" style="fill: #3f7898"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mad3fb70471" d="M 0 0 
+L 0 3.5 
+" style="stroke: #243849; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mad3fb70471" x="233.28" y="391.68" style="fill: #243849; stroke: #243849; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #243849" x="233.28" y="409.87125" transform="rotate(-0 233.28 409.87125)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mad3fb70471" x="349.056" y="391.68" style="fill: #243849; stroke: #243849; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #243849" x="349.056" y="409.87125" transform="rotate(-0 349.056 409.87125)">0.1</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mad3fb70471" x="464.832" y="391.68" style="fill: #243849; stroke: #243849; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #243849" x="464.832" y="409.87125" transform="rotate(-0 464.832 409.87125)">0.2</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mad3fb70471" x="580.608" y="391.68" style="fill: #243849; stroke: #243849; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #243849" x="580.608" y="409.87125" transform="rotate(-0 580.608 409.87125)">0.3</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mad3fb70471" x="696.384" y="391.68" style="fill: #243849; stroke: #243849; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #243849" x="696.384" y="409.87125" transform="rotate(-0 696.384 409.87125)">0.4</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mad3fb70471" x="812.16" y="391.68" style="fill: #243849; stroke: #243849; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #243849" x="812.16" y="409.87125" transform="rotate(-0 812.16 409.87125)">0.5</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #243849" x="522.72" y="428.542812" transform="rotate(-0 522.72 428.542812)">MS：平均绝对相关（无单位）</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m15a9350cca" d="M 0 0 
+L -3.5 0 
+" style="stroke: #243849; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m15a9350cca" x="233.28" y="128.132129" style="fill: #243849; stroke: #243849; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: end; fill: #243849" x="226.28" y="133.946504" transform="rotate(-0 226.28 133.946504)">体重（g）</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m15a9350cca" x="233.28" y="239.616" style="fill: #243849; stroke: #243849; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: end; fill: #243849" x="226.28" y="245.477406" transform="rotate(-0 226.28 245.477406)">腹部脂肪质量（g）</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m15a9350cca" x="233.28" y="351.099871" style="fill: #243849; stroke: #243849; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 14px; font-family: 'Microsoft YaHei'; text-anchor: end; fill: #243849" x="226.28" y="357.009402" transform="rotate(-0 226.28 357.009402)">其他脂肪库总质量（g）</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 233.28 391.68 
+L 233.28 87.552 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 233.28 391.68 
+L 812.16 391.68 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 17px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #243849" x="704.48832" y="132.81377" transform="rotate(-0 704.48832 132.81377)">0.395</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 17px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #243849" x="621.1296" y="244.297641" transform="rotate(-0 621.1296 244.297641)">0.323</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 17px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #243849" x="604.92096" y="355.781512" transform="rotate(-0 604.92096 355.781512)">0.309</text>
+   </g>
+  </g>
+  <g id="text_14">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #243849" x="51.84" y="30.610875" transform="rotate(-0 51.84 30.610875)">真实案例：小鼠肝脏与体重相关模块</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #243849" x="233.28" y="444.672" transform="rotate(-0 233.28 444.672)">真实研究 · 135只雌性小鼠 · 原文汇总值重绘</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcc38dc8805">
+   <rect x="233.28" y="87.552" width="578.88" height="304.128"/>
+  </clipPath>
+ </defs>
+</svg>

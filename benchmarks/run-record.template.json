@@ -1,0 +1,25 @@
+{
+  "skill_commit": null,
+  "agent": null,
+  "model": null,
+  "date": null,
+  "research_mode": null,
+  "tools_available": [],
+  "elapsed_seconds": null,
+  "generation_retries": null,
+  "cost_if_known": null,
+  "human_edits": [],
+  "output_directory": null,
+  "mechanical_validation": null,
+  "reviewer": null,
+  "review_scale": "0-4; null means not reviewed, not zero",
+  "scores": {
+    "clarity": null,
+    "scientific_reasoning": null,
+    "case_traceability": null,
+    "illustration_explanatory_value": null,
+    "consistent_voice_and_style": null
+  },
+  "findings_with_evidence": [],
+  "uncompleted_items": []
+}

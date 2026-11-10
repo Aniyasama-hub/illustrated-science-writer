@@ -1,0 +1,30 @@
+[
+  {
+    "viewport": 1280,
+    "headings": [
+      "定义解释",
+      "分析原理",
+      "分析操作",
+      "适用范围",
+      "参考与致谢"
+    ],
+    "images": 8,
+    "loaded": true,
+    "overflow": false,
+    "javascript_errors": []
+  },
+  {
+    "viewport": 390,
+    "headings": [
+      "定义解释",
+      "分析原理",
+      "分析操作",
+      "适用范围",
+      "参考与致谢"
+    ],
+    "images": 8,
+    "loaded": true,
+    "overflow": false,
+    "javascript_errors": []
+  }
+]

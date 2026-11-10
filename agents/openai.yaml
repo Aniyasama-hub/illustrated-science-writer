@@ -1,0 +1,4 @@
+interface:
+  display_name: "图解科普短文"
+  short_description: "固定结构、清晰措辞、可核对案例与配套插图的中文科普写作流程"
+  default_prompt: "使用 $illustrated-science-writer，按我的选题生成结构固定、措辞清楚的科普短文，附案例、解释性插图和来源。"

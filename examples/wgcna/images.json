@@ -1,0 +1,112 @@
+[
+  {
+    "id": "I1",
+    "file": "images/01-coexpression.png",
+    "prompt": "prompts/01-coexpression.md",
+    "kind": "concept",
+    "purpose": "共表达：比较跨样本的变化模式",
+    "caption": "图1｜A、B各代表一组变化相似的基因；曲线为概念示意，横向排列的是不同样本，不代表时间。",
+    "source_ids": [
+      "S1"
+    ],
+    "case_ids": [],
+    "reviewed": true
+  },
+  {
+    "id": "I2",
+    "file": "images/02-soft-power.png",
+    "prompt": "prompts/02-soft-power.md",
+    "kind": "formula",
+    "purpose": "软阈值：把相关性转为连接权重",
+    "caption": "图2｜有符号网络的公式演示：β越大，较弱相关对应的权重越小；β＝6仅为举例。",
+    "source_ids": [
+      "S2"
+    ],
+    "case_ids": [
+      "C2"
+    ],
+    "reviewed": true
+  },
+  {
+    "id": "I3",
+    "file": "images/03-module-me.png",
+    "prompt": "prompts/03-module-me.md",
+    "kind": "computed-example",
+    "purpose": "模块：把一组基因概括成一条曲线",
+    "caption": "图3｜左侧为构造举例的三条标准化表达曲线；右侧为同一矩阵的第一主成分得分，方向已对齐。",
+    "source_ids": [
+      "S1"
+    ],
+    "case_ids": [
+      "C2"
+    ],
+    "reviewed": true
+  },
+  {
+    "id": "I4",
+    "file": "images/04-trait.png",
+    "prompt": "prompts/04-trait.md",
+    "kind": "flowchart",
+    "purpose": "从模块到临床问题",
+    "caption": "图4｜先汇总模块，再检验其与性状的关系；混杂因素和多重比较影响证据强度。",
+    "source_ids": [
+      "S4"
+    ],
+    "case_ids": [],
+    "reviewed": true
+  },
+  {
+    "id": "I5",
+    "file": "images/05-input.png",
+    "prompt": "prompts/05-input.md",
+    "kind": "diagram",
+    "purpose": "两张输入表：样本必须一一对应",
+    "caption": "图5｜表达矩阵与性状表使用相同样本编号和顺序；表内文字为字段示意，没有真实患者数据。",
+    "source_ids": [
+      "S3"
+    ],
+    "case_ids": [],
+    "reviewed": true
+  },
+  {
+    "id": "I6",
+    "file": "images/06-workflow.png",
+    "prompt": "prompts/06-workflow.md",
+    "kind": "flowchart",
+    "purpose": "分析操作：每一步都有检查对象",
+    "caption": "图6｜流程从输入检查走向独立验证；软阈值与模块参数需记录，不能只保留最终热图。",
+    "source_ids": [
+      "S2"
+    ],
+    "case_ids": [],
+    "reviewed": true
+  },
+  {
+    "id": "I7",
+    "file": "images/07-real-case.png",
+    "prompt": "prompts/07-real-case.md",
+    "kind": "published-data",
+    "purpose": "真实案例：小鼠肝脏与体重相关模块",
+    "caption": "图7｜据2006年原文摘录重绘：蓝色模块的MS是模块内基因与性状相关系数绝对值的均值，不是模块特征向量相关系数。",
+    "source_ids": [
+      "S5"
+    ],
+    "case_ids": [
+      "C1"
+    ],
+    "reviewed": true
+  },
+  {
+    "id": "I8",
+    "file": "images/08-scope.png",
+    "prompt": "prompts/08-scope.md",
+    "kind": "comparison",
+    "purpose": "适用范围：从发现线索到验证机制",
+    "caption": "图8｜左侧列出适合回答的问题；右侧列出需要其他设计或证据支持的结论。",
+    "source_ids": [
+      "S6"
+    ],
+    "case_ids": [],
+    "reviewed": true
+  }
+]

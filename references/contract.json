@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "topic": "",
+  "audience": "有高中基础的中文读者",
+  "language": "zh-CN",
+  "sections": [
+    "问题是什么",
+    "原理怎么理解",
+    "用一个案例说明",
+    "怎样应用",
+    "参考资料"
+  ],
+  "body_chars": [
+    800,
+    1400
+  ],
+  "min_cases": 1,
+  "min_images": 2,
+  "style": {
+    "voice": "清楚、克制、严谨，先具体后概括",
+    "palette": [
+      "#F7F4EE",
+      "#243849",
+      "#3F7898",
+      "#BC7541"
+    ],
+    "image_backend": "runtime-native",
+    "image_mode": "explanatory"
+  },
+  "include_references_in_length": false
+}

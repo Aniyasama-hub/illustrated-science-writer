@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "body_chars": 950,
+  "image_sha256": {
+    "images/01-concept.png": "cdb58a2a0d87d1d4a0e6da319c8982c679c2331557010f3627a9825a0af5de51",
+    "images/02-case.svg": "74138bfc3ed2e31d43f4e109c7b530d32b5679f64041031b348c2bed00b5309f"
+  },
+  "errors": [],
+  "warnings": [],
+  "scope": "Mechanical checks only; review declarations do not prove scientific correctness."
+}

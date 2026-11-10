@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "body_chars": 1994,
+  "image_sha256": {
+    "images/01-coexpression.png": "e84cc199fe4c7092c2fb3c4772ceb21be7909c6b94f976e08a8b3b24ebffa1f2",
+    "images/02-soft-power.png": "9845765aace9e4d716ce955a1c24596d5948db9ead6875526dc4141222705791",
+    "images/03-module-me.png": "8a4b3e378cc1a52a4aba4d6aee0496d690333618c0d1043fc66689b565f82d51",
+    "images/04-trait.png": "5ed43ffa62016abe062480bee0cf7535d76aff1e6ce2b1305eb61c1eeb996856",
+    "images/05-input.png": "f9cf579911b649bb292207d2453a15df29e1d45ce89ef5f32f11fc1efccacb0d",
+    "images/06-workflow.png": "99139fe19d6f666e8ca4d30622e84c1d05d928337c64e20af1b57d7309eef18b",
+    "images/07-real-case.png": "679e0a2e7fb9b3725df14b36c10c12bf92b68a65f0413394c60995c67830beff",
+    "images/08-scope.png": "4b0b0bafcffaeeb20034a40a1cec34e1a5f9fe4bd582b59e7ac2736ace3fc891"
+  },
+  "errors": [],
+  "warnings": [],
+  "scope": "Mechanical checks only; review declarations do not prove scientific correctness."
+}

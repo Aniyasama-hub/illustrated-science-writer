@@ -1,0 +1,25 @@
+[
+  {
+    "id": "C1",
+    "kind": "real",
+    "label": "真实案例：小鼠肝脏与体重",
+    "source_ids": [
+      "S5",
+      "S3",
+      "S7"
+    ],
+    "locator": "2006原文Figure2及相邻Results；教程I.1 p.1",
+    "provenance": "原文HTML Results的MS数值逐项摘录至data/published-case.csv；没有重新分析原始微阵列",
+    "explanation": "MS为平均绝对基因–性状相关；与教程的ME相关分析区分，不混用模块颜色或结果。"
+  },
+  {
+    "id": "C2",
+    "kind": "hypothetical",
+    "label": "构造举例",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "explanation": "六个样本三条人为表达曲线用于SVD汇总示意；软阈值β=1和6仅用于公式演示。"
+  }
+]

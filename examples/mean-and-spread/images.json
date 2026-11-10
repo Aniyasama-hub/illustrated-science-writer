@@ -1,0 +1,31 @@
+[
+  {
+    "id": "I1",
+    "file": "images/01-concept.png",
+    "prompt": "prompts/01-concept-v2.md",
+    "kind": "generated-concept",
+    "purpose": "解释汇总时个体信息被压缩",
+    "caption": "图 1｜概念示意：两组观测可得到相同的 Mean，但这个汇总值不能还原各次观测。精确位置与数值见图 2。",
+    "source_ids": [
+      "S1"
+    ],
+    "case_ids": [],
+    "reviewed": true
+  },
+  {
+    "id": "I2",
+    "file": "images/02-case.svg",
+    "prompt": "prompts/02-case.md",
+    "kind": "computed-chart",
+    "purpose": "同坐标展示八个真实计算位置及共同平均值",
+    "caption": "图 2｜举例数据，每个圆点代表一次读数。两行使用相同横轴，虚线均在 5 mm；A 中两个 5 mm 的点上下错开，便于看清。",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "case_ids": [
+      "C1"
+    ],
+    "reviewed": true
+  }
+]

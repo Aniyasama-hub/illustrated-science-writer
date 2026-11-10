@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topic": "WGCNA分析",
+  "audience": "没有专业背景的临床/科研工作者",
+  "language": "zh-CN",
+  "sections": [
+    "定义解释",
+    "分析原理",
+    "分析操作",
+    "适用范围",
+    "参考与致谢"
+  ],
+  "body_chars": [
+    1800,
+    2400
+  ],
+  "min_cases": 1,
+  "min_images": 8,
+  "style": {
+    "palette": [
+      "#F7F4EE",
+      "#243849",
+      "#3F7898",
+      "#BC7541"
+    ],
+    "voice": "清晰、严谨、统一；去除套话",
+    "image_backend": "native imagegen + matplotlib"
+  },
+  "include_references_in_length": false
+}

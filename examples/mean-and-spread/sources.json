@@ -1,0 +1,18 @@
+[
+  {
+    "id": "S1",
+    "title": "NIST Measures of Location",
+    "url": "https://www.itl.nist.gov/div898/handbook/eda/section3/eda351.htm",
+    "accessed": "2026-11-10",
+    "supports": "平均数的计算定义，作为中心位置指标",
+    "locator": "Definition of Location: mean"
+  },
+  {
+    "id": "S2",
+    "title": "NIST Measures of Scale",
+    "url": "https://www.itl.nist.gov/div898/handbook/eda/section3/eda356.htm",
+    "accessed": "2026-11-10",
+    "supports": "样本方差、标准差和极差定义及单位",
+    "locator": "Definitions of Variability: variance, standard deviation, range"
+  }
+]
